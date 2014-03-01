@@ -51,6 +51,13 @@
 			letter-spacing: -1px;
 		}
 		
+			h2.quote {
+				font-size:1em;
+				padding-bottom: 0px;
+				color: #FFFDF7;
+				font-style: italic;
+			}
+
 			h2.alt
 			{
 				color: #F5A2A2;
@@ -106,6 +113,9 @@
 			border-bottom-color: rgba(255,255,255,0);
 		}
 
+		a.contact-link:hover {
+			color: #FFD8D8;
+		}
 	sub
 	{
 		position: relative;
@@ -1023,6 +1033,9 @@
 					-ms-transition: none;
 					transition: none;
 				}
+					#nav ul li a:hover {
+						color: #DCF7F3;
+					}
 				
 					#nav ul li a span
 					{
