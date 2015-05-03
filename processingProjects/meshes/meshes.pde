@@ -1,3 +1,5 @@
+/* @pjs preload="tetra.ply, icos.ply, octa.ply, star.ply, torus.ply"; */
+
 // Sample code for starting the meshes project
 
 import processing.opengl.*;
